@@ -28,15 +28,8 @@ I recently took a glimpse of Object Oriented Programming in C++, and I wanted to
 
 This project is built using **C++** and **Raylib** 
 
-* [![C++][cpp]][cpp-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+[![C++][cpp]][cpp-url]
+[![Raylib][Raylib]][Raylib-url]
 
 ### Installation
 
@@ -63,9 +56,18 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+```git
+git checkout -b feature/AmazingFeature
+```
+3. Commit your Changes 
+```git
+git commit -m 'Add some AmazingFeature'
+```
+4. Push to the Branch 
+```
+git push origin feature/AmazingFeature
+```
 5. Open a Pull Request
 
 
@@ -88,26 +90,10 @@ This project would not be possible without Raylib library, and my friend Chandra
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[cpp]: https://github.com/isocpp/logos/blob/master/cpp_logo.svg
+[cpp]: https://img.shields.io/badge/c++-35495E?style=for-the-badge&logo=c%2B%2B&logoColor=4FC08D
 [cpp-url]: https://isocpp.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
-
-
+[Raylib]: https://img.shields.io/badge/Raylib-f5f5ff?style=for-the-badge&logo=white&logoColor=0c0908
+[raylib-url]: https://www.raylib.com/
 
 [screenshot]: others/Screenshot01.png
-[cpp]: [https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white] 
+<!-- [cpp]: [https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white]  -->
